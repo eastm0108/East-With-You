@@ -1,0 +1,13 @@
+1.首頁
+1.登入頁面
+2.線上訂餐
+
+熱門解析度:
+iPad - 768px
+iPad以下 - 767px
+iPhone 6 Plus  -  414px (視專案族群)
+iPhone 6 - 375px  (視專案族群)
+iPhone 5、SE - 320px
+960px
+1000px
+1280px
